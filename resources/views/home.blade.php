@@ -25,41 +25,13 @@
 	</div>
 							<div id="logo">
 								<h1><a href="index.html"><img id="logoPrinc" src="images/DATP2.png" alt="Logo DATP"></a></h1>
-								<p>A free responsive site template by HTML5 UP</p>
+								<p>Fruto dos alunos para os alunos</p>
 							</div>
-
-							<nav id="nav">
-								<ul>
-									<li class="current" style="white-space: nowrap;"><a href="index.html">Home</a></li>
-									<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
-										<a href="#">Dropdown</a>
-										<ul class="dropotron level-0" style="user-select: none; display: none; position: absolute; z-index: 1000;">
-											<li style="white-space: nowrap;"><a href="#" style="display: block;">Lorem ipsum</a></li>
-											<li style="white-space: nowrap;"><a href="#" style="display: block;">Magna veroeros</a></li>
-											<li style="white-space: nowrap;"><a href="#" style="display: block;">Etiam nisl</a></li>
-											<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
-												<a href="#" style="display: block;">Sed consequat</a>
-												<ul style="user-select: none; display: none; position: absolute; z-index: 1001;" class="dropotron level-1">
-													<li style="white-space: nowrap;"><a href="#" style="display: block;">Lorem dolor</a></li>
-													<li style="white-space: nowrap;"><a href="#" style="display: block;">Amet consequat</a></li>
-													<li style="white-space: nowrap;"><a href="#" style="display: block;">Magna phasellus</a></li>
-													<li style="white-space: nowrap;"><a href="#" style="display: block;">Etiam nisl</a></li>
-													<li style="white-space: nowrap;"><a href="#" style="display: block;">Sed feugiat</a></li>
-												</ul>
-											</li>
-											<li style="white-space: nowrap;"><a href="#" style="display: block;">Nisl tempus</a></li>
-										</ul>
-									</li>
-									<li style="white-space: nowrap;"><a href="left-sidebar.html">Left Sidebar</a></li>
-									<li style="white-space: nowrap;"><a href="right-sidebar.html">Right Sidebar</a></li>
-									<li style="white-space: nowrap;"><a href="no-sidebar.html">No Sidebar</a></li>
-								</ul>
-							</nav>
 
 					</div>
 				</div>
 				<div id="intro-wrapper" class="wrapper style1">
-					<div class="title">The Introduction</div>
+					<div class="title">Introdução</div>
 					<section id="intro" class="container">
 						<p class="style1">So in case you were wondering what this is all about ...</p>
 						<p class="style2">
@@ -74,77 +46,8 @@
 						</ul>
 					</section>
 				</div>
+<!-- Highlights -->
 
-			<!-- Main -->
-				<div class="wrapper style2">
-					<div class="title">The Details</div>
-					<div id="main" class="container">
-
-						<!-- Image -->
-							<a href="#" class="image featured">
-
-							</a>
-
-						<!-- Features -->
-							<section id="features">
-								<header class="style1">
-									<h2>Dolor consequat feugiat amet veroeros</h2>
-									<p>Feugiat dolor nullam orci pretium phasellus justo</p>
-								</header>
-								<div class="feature-list">
-									<div class="row">
-										<div class="6u 12u(mobile)">
-											<section>
-												<h3 class="icon fa-comment">Mattis velit diam vulputate</h3>
-												<p>Eget mattis at, laoreet vel et velit aliquam diam ante, aliquet sit amet vulputate. Eget mattis at, laoreet vel velit lorem.</p>
-											</section>
-										</div>
-										<div class="6u 12u(mobile)">
-											<section>
-												<h3 class="icon fa-refresh">Lorem ipsum dolor sit veroeros</h3>
-												<p>Eget mattis at, laoreet vel et velit aliquam diam ante, aliquet sit amet vulputate. Eget mattis at, laoreet vel velit lorem.</p>
-											</section>
-										</div>
-									</div>
-									<div class="row">
-										<div class="6u 12u(mobile)">
-											<section>
-												<h3 class="icon fa-picture-o">Pretium phasellus justo lorem</h3>
-												<p>Eget mattis at, laoreet vel et velit aliquam diam ante, aliquet sit amet vulputate. Eget mattis at, laoreet vel velit lorem.</p>
-											</section>
-										</div>
-										<div class="6u 12u(mobile)">
-											<section>
-												<h3 class="icon fa-cog">Tempus sed pretium orci</h3>
-												<p>Eget mattis at, laoreet vel et velit aliquam diam ante, aliquet sit amet vulputate. Eget mattis at, laoreet vel velit lorem.</p>
-											</section>
-										</div>
-									</div>
-									<div class="row">
-										<div class="6u 12u(mobile)">
-											<section>
-												<h3 class="icon fa-wrench">Aliquam consequat et feugiat</h3>
-												<p>Eget mattis at, laoreet vel et velit aliquam diam ante, aliquet sit amet vulputate. Eget mattis at, laoreet vel velit lorem.</p>
-											</section>
-										</div>
-										<div class="6u 12u(mobile)">
-											<section>
-												<h3 class="icon fa-check">Dolore laoreet aliquam mattis</h3>
-												<p>Eget mattis at, laoreet vel et velit aliquam diam ante, aliquet sit amet vulputate. Eget mattis at, laoreet vel velit lorem.</p>
-											</section>
-										</div>
-									</div>
-								</div>
-								<ul class="actions actions-centered">
-									<li><a href="#" class="button style1 big">Get Started</a></li>
-									<li><a href="#" class="button style2 big">More Info</a></li>
-								</ul>
-							</section>
-
-					</div>
-				</div>
-
-			<!-- Highlights -->
 				<div class="wrapper style3">
 					<div class="title">The Endorsements</div>
 					<div id="highlights" class="container">

@@ -16,6 +16,18 @@ Route::get('/', function () {
 });
 
 
-Route::get('/home', function(){
+Route::get('home', function(){
     return view('home');
+});
+
+Route::get('sobre', function(){
+    return view('sobre');
+});
+
+Route::get('eventos', function(){
+    return view('eventos');
+});
+
+Route::get('contato', function(){
+    return view('contato');
 });
